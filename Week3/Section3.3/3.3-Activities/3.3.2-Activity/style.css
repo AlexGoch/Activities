@@ -1,0 +1,23 @@
+.Druid {
+  color: orange;
+}
+.resto {
+  color: green;
+}
+.balance {
+  color: purple;
+}
+.guardian {
+  color: blue;
+}
+.feral {
+  color: red;
+}
+.list {
+  border: 5px;
+  outline: orange;
+  font-size: 20px;
+}
+.link {
+  font-size: 40px;
+}
